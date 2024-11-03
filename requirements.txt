@@ -1,2 +1,5 @@
-Flask
-gunicorn
+
+
+fastapi
+uvicorn
+python-dateutil
